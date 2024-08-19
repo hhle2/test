@@ -1,0 +1,702 @@
+[
+  {
+    "_id": "667422fa1027ecd72bb87c1c",
+    "text": "General Questions",
+    "translation": "Câu hỏi chung",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fa1027ecd72bb87c1d",
+    "text": "Finance Questions",
+    "translation": "Câu hỏi về Tài chính",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fa1027ecd72bb87c20",
+    "text": "Tech Questions",
+    "translation": "Câu hỏi về công nghệ",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fa1027ecd72bb87c22",
+    "text": "Marketing Questions",
+    "translation": "Câu hỏi về Tiếp thị",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fa1027ecd72bb87c5e",
+    "text": "Education Questions",
+    "translation": "Câu hỏi về Giáo dục",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fa1027ecd72bb87c60",
+    "text": "Healthcare Questions",
+    "translation": "Câu hỏi về chăm sóc sức khỏe",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c7e",
+    "text": "Introducing yourself",
+    "translation": "Tự giới thiệu bản thân",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c81",
+    "text": "Backend Developer",
+    "translation": "Lập trình viên Backend",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c83",
+    "text": "Strengths and Weaknesses",
+    "translation": "Ưu điểm và Nhược điểm",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c85",
+    "text": "Salary Expectations",
+    "translation": "Mong muốn mức lương",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c87",
+    "text": "Questions to Ask the Interviewer",
+    "translation": "Câu hỏi để hỏi người phỏng vấn",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c8a",
+    "text": "Data Scientist",
+    "translation": "Nhà khoa học dữ liệu",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c8d",
+    "text": "Auditor",
+    "translation": "Kiểm toán viên",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c90",
+    "text": "What Motivates You?",
+    "translation": "Bạn được động viên bởi điều gì?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c93",
+    "text": "Junior Software Developer",
+    "translation": "Lập trình viên phần mềm tập sự",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c97",
+    "text": "Describe Your Leadership Style",
+    "translation": "Miêu tả phong cách lãnh đạo của bạn.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c99",
+    "text": "Common Interview Questions",
+    "translation": "Câu hỏi phỏng vấn phổ biến",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c9b",
+    "text": "Difficult & Illegal Questions",
+    "translation": "Câu hỏi Khó khăn & Bất hợp pháp",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87c9e",
+    "text": "Website Developer",
+    "translation": "Nhà phát triển website",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ca0",
+    "text": "React Developer",
+    "translation": "Nhà phát triển React",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ca3",
+    "text": "Java Developer",
+    "translation": "Nhà phát triển Java",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ca5",
+    "text": "Where Do You See Yourself in 5 Years?",
+    "translation": "Bạn thấy bản thân mình ở đâu sau 5 năm?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ca7",
+    "text": "Describe a Time You Failed and How You Handled It",
+    "translation": "Mô tả một lần bạn thất bại và cách bạn xử lý nó.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ca9",
+    "text": "Behavior questions",
+    "translation": "Câu hỏi về hành vi",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cab",
+    "text": "Database Administrator",
+    "translation": "Quản trị cơ sở dữ liệu",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87caf",
+    "text": "Accountant",
+    "translation": "Kế toán viên",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cb7",
+    "text": "Cybersecurity Analyst",
+    "translation": "Chuyên gia An ninh mạng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cbe",
+    "text": "Tax Accountant",
+    "translation": "Kế toán thuế",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cc1",
+    "text": "Economist",
+    "translation": "Nhà kinh tế",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cc6",
+    "text": "How Do You Handle Stress and Pressure?",
+    "translation": "Làm thế nào bạn xử lý căng thẳng và áp lực?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cc4",
+    "text": "Financial Manager",
+    "translation": "Quản lý tài chính",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cca",
+    "text": "Financial Analyst",
+    "translation": "Nhà phân tích tài chính",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cd5",
+    "text": "Loan Officer",
+    "translation": "Nhân viên tín dụng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cd9",
+    "text": "Frontend Developer",
+    "translation": "Nhà phát triển Frontend",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ccc",
+    "text": "Why Should We Hire You?",
+    "translation": "Tại sao chúng tôi nên thuê bạn?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cd7",
+    "text": "Credit Analyst",
+    "translation": "Chuyên viên phân tích tín dụng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ccf",
+    "text": "Brand Manager",
+    "translation": "Quản lý thương hiệu",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cd0",
+    "text": "SEO Specialist",
+    "translation": "Chuyên gia SEO",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cdb",
+    "text": "Tell Me About a Challenge You Overcame",
+    "translation": "Kể cho tôi về một thách thức mà bạn đã vượt qua",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cdd",
+    "text": "Content Marketing Manager",
+    "translation": "Quản lý Marketing Nội dung",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cdf",
+    "text": "Investment Banker",
+    "translation": "Người làm việc tại ngân hàng đầu tư",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ce1",
+    "text": "AI/ML Engineer",
+    "translation": "Kỹ sư Trí tuệ nhân tạo/Máy học",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ce0",
+    "text": "Mobile App Developer",
+    "translation": "Nhà phát triển ứng dụng di động",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ce2",
+    "text": "Marketing Manager",
+    "translation": "Quản lý Marketing",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ce4",
+    "text": "Cloud Solutions Architect",
+    "translation": "Kiến trúc sư giải pháp đám mây",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ce3",
+    "text": "Education Administrator",
+    "translation": "Quản lý Giáo dục",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ceb",
+    "text": "DevOps Engineer",
+    "translation": "Kỹ sư DevOps",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cec",
+    "text": "Media Buyer",
+    "translation": "Người mua truyền thông",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87ced",
+    "text": "Digital Marketing Specialist",
+    "translation": "Chuyên gia Tiếp thị Số liệu",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cee",
+    "text": "Advertising Manager",
+    "translation": "Quản lý quảng cáo",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cf3",
+    "text": "Education Consultant",
+    "translation": "Tư vấn giáo dục",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cf4",
+    "text": "Medical Assistant",
+    "translation": "Trợ lý Y khoa",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cf7",
+    "text": "Risk Analyst",
+    "translation": "Nhà phân tích rủi ro",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cf9",
+    "text": "Financial Advisor",
+    "translation": "Nhà tư vấn tài chính",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cfb",
+    "text": "Librarian",
+    "translation": "Thủ thư",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cfd",
+    "text": "Social Media Manager",
+    "translation": "Quản lý truyền thông xã hội.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cff",
+    "text": "Public Relations Specialist",
+    "translation": "Chuyên gia quan hệ cộng đồng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d01",
+    "text": "Product Marketing Manager",
+    "translation": "Quản lý Tiếp thị Sản phẩm",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d05",
+    "text": "Career Counselor",
+    "translation": "Tư vấn nghề nghiệp",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d03",
+    "text": "Email Marketing Specialist",
+    "translation": "Chuyên viên Email Marketing",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d07",
+    "text": "Instructional Coordinator",
+    "translation": "Người điều phối đào tạo",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cb8",
+    "text": "IT Support Specialist",
+    "translation": "Chuyên gia hỗ trợ công nghệ thông tin",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87cb9",
+    "text": "Actuary",
+    "translation": "Định giá viên",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d0c",
+    "text": "Curriculum Developer",
+    "translation": "Phát triển Chương trình Học",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d0e",
+    "text": "Special Education Teacher",
+    "translation": "Giáo viên giáo dục đặc biệt",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d0f",
+    "text": "School Counselor",
+    "translation": "Giáo viên tư vấn trường học.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d12",
+    "text": "Copywriter",
+    "translation": "Nhà văn quảng cáo",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d14",
+    "text": "Why Did You Leave Your Last Job?",
+    "translation": "Tại sao bạn rời khỏi công việc trước đó của mình?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d16",
+    "text": "School Psychologist",
+    "translation": "Chuyên gia tâm lý trường học",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d18",
+    "text": "College Professor",
+    "translation": "Giáo sư Đại học",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d1a",
+    "text": "Event Planner",
+    "translation": "Nhà tổ chức sự kiện",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d1e",
+    "text": "What Is Your Greatest Accomplishment?",
+    "translation": "Anh/chị đã đạt được thành tựu lớn nhất nào?",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d1b",
+    "text": "Teacher",
+    "translation": "Giáo viên",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d24",
+    "text": "Pharmacist",
+    "translation": "Nhà dược học",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d26",
+    "text": "Radiologic Technologist",
+    "translation": "Kỹ thuật viên chụp cổng thông tin.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d20",
+    "text": "Registered Nurse",
+    "translation": "Hộ lý viên đã đăng ký",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d22",
+    "text": "Licensed Practical Nurse",
+    "translation": "Hộ lý sỹ được cấp phép",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d27",
+    "text": "Budget Analyst",
+    "translation": "Nhà phân tích ngân sách",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d2a",
+    "text": "Admissions Counselor",
+    "translation": "Người tư vấn tuyển sinh",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d2c",
+    "text": "Physician",
+    "translation": "Bác sĩ",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d32",
+    "text": "Market Research Analyst",
+    "translation": "Nhà phân tích nghiên cứu thị trường",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d2e",
+    "text": "Home Health Aide",
+    "translation": "Người phục vụ sức khỏe tại nhà",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d2d",
+    "text": "Emergency Medical Technician",
+    "translation": "Kỹ thuật viên y tế khẩn cấp",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d33",
+    "text": "Dental Hygienist",
+    "translation": "Nhân viên vệ sinh răng hàm mặt",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d3d",
+    "text": "Occupational Therapist",
+    "translation": "Người trị liệu nghề nghiệp",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d3f",
+    "text": "Principal",
+    "translation": "Hiệu trưởng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d40",
+    "text": "Medical Records Technician",
+    "translation": "Kỹ thuật viên hồ sơ y tế",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d66",
+    "text": "You will practice how to introduce yourself confidently.",
+    "translation": "Bạn sẽ thực hành cách tự giới thiệu một cách tự tin.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d6f",
+    "text": "Speech-Language Pathologist",
+    "translation": "Người chuyên môn về ngôn ngữ và nói chuyện",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fb1027ecd72bb87d0a",
+    "text": "Insurance Underwriter",
+    "translation": "Nhà định giá bảo hiểm",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d75",
+    "text": "ESL Teacher",
+    "translation": "Giáo viên dạy Tiếng Anh cho người nước ngoài (ESL)",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d80",
+    "text": "Clinical Laboratory Technician",
+    "translation": "Kỹ thuật viên phòng thí nghiệm lâm sàng",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d88",
+    "text": "Articulate your approach to leadership and how you manage teams effectively.",
+    "translation": "Tiết lộ cách tiếp cận lãnh đạo của bạn và cách bạn quản lý nhóm một cách hiệu quả.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d86",
+    "text": "Analyze complex data to provide actionable insights and drive decision-making.",
+    "translation": "Phân tích dữ liệu phức tạp để cung cấp thông tin hành động và thúc đẩy quyết định.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d84",
+    "text": "Develop high-performance applications using the Java programming language.",
+    "translation": "Phát triển ứng dụng hiệu suất cao sử dụng ngôn ngữ lập trình Java.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d82",
+    "text": "You will practice responding to questions that evaluate your past behavior.",
+    "translation": "Bạn sẽ thực hành trả lời các câu hỏi đánh giá hành vi quá khứ của bạn.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d90",
+    "text": "Physical Therapist",
+    "translation": "Bác sĩ vật lý trị liệu",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d8e",
+    "text": "As a Website Developer, you'll be responsible for creating and maintaining websites.",
+    "translation": "Là một Nhà phát triển Website, bạn sẽ chịu trách nhiệm tạo ra và duy trì các trang web.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d8c",
+    "text": "As a Backend Developer, you'll design and manage the server-side logic and databases for applications.",
+    "translation": "Là một Lập trình viên Backend, bạn sẽ thiết kế và quản lý logic phía máy chủ và cơ sở dữ liệu cho các ứng dụng.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  },
+  {
+    "_id": "667422fc1027ecd72bb87d8a",
+    "text": "You will get to practice answering typical questions asked in interviews.",
+    "translation": "Bạn sẽ có cơ hội luyện tập trả lời những câu hỏi thông thường được đặt ra trong các cuộc phỏng vấn.",
+    "original_language": "English",
+    "target_language": "Vietnamese"
+  }
+]
